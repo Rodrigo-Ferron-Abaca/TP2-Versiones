@@ -40,10 +40,7 @@ public class MainClass {
 
 
 
-        //parte 2 Juaco
-        
-        
-        /*        
+       
         OrniVerde orniVerde1 = new OrniVerde("Juanjo", 
                 longitudIngresada, velocidadIngresada);
         
@@ -65,7 +62,7 @@ public class MainClass {
         
         //System.out.println("El nombre del orniazul1 es " + orniAzul1.getNombre());
         
-        */
+       
         
         
 

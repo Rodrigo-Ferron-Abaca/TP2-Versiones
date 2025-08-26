@@ -19,7 +19,7 @@ public class MainClass {
 
         //parte 1 Samira
         
-        /*
+        
         
         
         System.out.println("Ingrese longitud de cola");
@@ -36,7 +36,7 @@ public class MainClass {
         
         sc.nextLine();
         
-        */
+        
 
 
 

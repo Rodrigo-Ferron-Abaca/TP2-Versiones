@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Cetera Evelyn
+ * @author Grupo 2
  */
 
     

@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Cetera Evelyn
+ * @author Grupo 2
  */
 public interface MamaPata {
     public static final double PICO = 6.8;
